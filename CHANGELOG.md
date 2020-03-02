@@ -1,3 +1,12 @@
+# buildpack-php-for-me (by 2c779) CHANGELOG
+
+## v172-custom-0001 (2020-03-02)
+
+### CHG
+
+- Disabled logging slow PHP-FPM requests by default for PHP 7.4
+- Disabled Termination of slow PHP-FPM requests by default for PHP 7.4
+
 # heroku-buildpack-php CHANGELOG
 
 ## v172 (2020-02-28)
